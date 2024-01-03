@@ -12,6 +12,8 @@ Before using this script, ensure that you have the following prerequisites insta
 - ethers.js library
 - @api3/airnode-abi library
 
+If you want to run in a browser, you may use [Replit]('https://replit.com/@billyjitsu/verifypricefeed')
+
 ## Installation
 
 1. Clone the repository or download the code to your local machine.
